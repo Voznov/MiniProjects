@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Projects/Templates/au_map.h
+cstdlib
+-
+type_traits
+-
+
+D:/Projects/Templates/main.cpp
+stdlib.h
+-
+crtdbg.h
+-
+au_map.h
+D:/Projects/Templates/au_map.h
+cassert
+-
+string
+-
+unordered_set
+-
+

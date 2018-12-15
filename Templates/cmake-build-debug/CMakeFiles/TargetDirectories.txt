@@ -1,0 +1,3 @@
+D:/Projects/Templates/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Projects/Templates/cmake-build-debug/CMakeFiles/Templates.dir
+D:/Projects/Templates/cmake-build-debug/CMakeFiles/rebuild_cache.dir
